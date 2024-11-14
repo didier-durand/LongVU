@@ -11,7 +11,7 @@ peft==0.4.0
 bitsandbytes==0.41.0
 pydantic<2,>=1
 markdown2
-scikit-learn==1.2.2
+scikit-learn==1.5.2
 gradio==3.35.2
 gradio_client==0.2.9
 requests
